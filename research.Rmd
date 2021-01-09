@@ -2,6 +2,16 @@
 title: "Research"
 ---
 
-## Published Articles
+## Published Articles and Book Chapters
 
-- Ubilava, A. (2020). '[Amicable Settlements in Investor-State Disputes: Empirical Analysis of Patterns and Perceived Problems]( https://brill.com/view/journals/jwit/21/4/article-p528_2.xml){target="_blank"}.' The Journal of World Investment & Trade, 21(4): 528-557.
+- Ana Ubilava. '[Amicable Settlements in Investor-State Disputes: Empirical Analysis of Patterns and Perceived Problems]( https://brill.com/view/journals/jwit/21/4/article-p528_2.xml){target="_blank"}' (2020) 21(4) The Journal of World Investment & Trade 528-557.
+- Ana Ubilava and Luke Nottage, 'Novel and Noteworthy Aspects of Australia’s Recent Investment Agreements and ISDS Policy: The CPTPP, Hong Kong, Indonesia and Mauritius Transparency Treaties” in in Nottage, Luke; Ali, Shahla; Jetin, Bruno; Teramura, Nobumichi (eds), '[New Frontiers in Asia-Pacific International Arbitration and Dispute Resolution](https://lrus.wolterskluwer.com/store/product/new-frontiers-in-asia-pacific-international-arbitration-and-dispute-resolution/){target="_blank"}" (Wolters Kluwer 2021).
+
+
+## Blog Posts
+
+- Ana Ubilava, '[Mandatory Investor-State Conciliation in New International Investment Treaties: Innovation and Interpretation](http://mediationblog.kluwerarbitration.com/2020/09/05/mandatory-investor-state-conciliation-in-new-international-investment-treaties-innovation-and-interpretation/){target="_blank"}', Kluwer Mediation Blog (Blog Post, 5 September 2020).
+- James Claxton, Luke Nottage and Ana Ubilava, '[Pioneering Mandatory Investor-State Conciliation Before Arbitration in Asia-Pacific Treaties: IA-CEPA and HK-UAE BIT](http://arbitrationblog.kluwerarbitration.com/2020/09/05/pioneering-mandatory-investor-state-conciliation-before-arbitration-in-asia-pacific-treaties-ia-cepa-and-hk-uae-bit/){target="_blank"}', Kluwer Arbitration Blog (Blog Post, 5 September 2020). 
+- Ana Ubilava and Luke Nottage, '[ICSID’s New Mediation Rules: A Small but Positive Step Forward](https://icsid.worldbank.org/sites/default/files/amendments/public-input/Ubilava_Notage_10.17.2018.pdf){target="_blank"}', (2018) ICSID Website (Submission to ICSID on ICSID Rules and Regulations Amendment Process).
+
+
